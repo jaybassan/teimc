@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name='teimc',
-    version='1.0.0',
+    version='1.0.1',
     author='Jay Bassan',
     author_email='jay.s.bassan@gmail.com',
     description='Functions for processing imaging mass cytometry data with\
